@@ -28,4 +28,4 @@
 
 ### 4. 개발 결과물 확인하기
 - Code 폴더에서 mp4 파일로 되어 있는 것은 각각 블록체인 및 빅데이터 개발 결과물을 가리킴.
-- Code는 Website와 Smart Contract(블록체인) 및 OCR (빅데이터)로 구성됨.
+- Code는 Website와 Smart Contract(블록체인) 및 Big Data (빅데이터)로 구성됨.
